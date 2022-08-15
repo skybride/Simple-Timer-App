@@ -1,0 +1,10 @@
+Vue CLI v5.0.8
+
+1. Use cmd "vue create <project-name>
+2. Select "Manually select features"
+3. De-select Linter / Formatter using the space bar
+4. Select 3.x for vue3
+5. Select "In dedicated config files"
+6. N for "Save this as a preset for future projects?"
+7. To remove TS-lint warning add "jsx":"preserve" to compilerOptions
+    in jsconfig.json 
