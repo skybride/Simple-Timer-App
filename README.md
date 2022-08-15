@@ -18,5 +18,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Simple-Timer-App
-# Simple-Timer-App
-# Simple-Timer-App
+
