@@ -19,3 +19,11 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # Simple-Timer-App
 
+Hierarchy:
+- App.vue
+	- Block.vue
+	- Results.vue
+
+NOTE:
+- Find project setup details in env-setup.txt
+
